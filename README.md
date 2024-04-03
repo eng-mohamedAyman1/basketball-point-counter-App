@@ -1,6 +1,7 @@
-# untitled
+# basketball point counter App
 
-A new Flutter project.
+
+I developed an application that calculates basketball scores for two teams.
 
 ## Getting Started
 
